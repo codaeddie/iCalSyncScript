@@ -19,9 +19,9 @@ She sends me the link (`https://sm-cal.apple.com/cal/{hash}`)
 
 Now, I want to see her work events on my Google Calendar and assign them to a specific color...
 
-oh no, this process is messy; I can’t simply add the events. I have to import, essentially *subscribe* to a public calendar via a URL
+oh no, this process is messy; I can’t simply add the events. I have to import, essentially *subscribe* to a public calendar via a URL
 
-<img src="C:/Users/eddie/Desktop/errata/AppleCalSync/%7B8C50181B-D9A4-4B5A-AFA3-EFB2274EAC45%7D.png" alt="{8C50181B-D9A4-4B5A-AFA3-EFB2274EAC45}" style="zoom:50%;" />
+![Adding Calendar to Google](/assets/add-calendar-google.png)
 
 > [!CAUTION]
 >
@@ -29,7 +29,7 @@ oh no, this process is messy; I can’t simply add the events. I have to import,
 
 okay so... this is unacceptable. Unless you want to do what your told and use iCal like the good lil’ blue bubble you are. Pay for iCloud storage, and Apple Care, and Apple Music, etc... Pay it. Pay for all of them. 
 
-<img src="C:/Users/eddie/Desktop/errata/AppleCalSync/%7B2AC501F8-BE2D-45A8-9325-E761E693CBA9%7D.png" alt="{2AC501F8-BE2D-45A8-9325-E761E693CBA9}" style="zoom: 50%;" />
+![Calendar Integration](/assets/calendar-integration.png)
 
 ---
 
@@ -91,7 +91,7 @@ The result? Your work schedule, your calendar, your way. No more calendar segreg
 
 Follow the instructions for a quick-and-dirty quickstart.py script run
 
-![files](C:/Users/eddie/Desktop/errata/AppleCalSync/files.webp)
+![Project Files Structure](/assets/project-files.webp)
 
 Using the quickstart.py as a template; 
 
@@ -117,7 +117,7 @@ Using the quickstart.py as a template;
 >     - sounds promising out the gate “universal”
 >     - Google Calendar handles the conversion back to local time for viewers
 >
-> 3. The `isinstance` check:
+> 3. The `isinstance` check:
 >
 >     - iCal can send two types of events:
 >
@@ -131,6 +131,6 @@ Using the quickstart.py as a template;
 
 ###### It worked!
 
-![{02087377-4819-415F-8006-710FBA765ABC}](C:/Users/eddie/Desktop/errata/AppleCalSync/%7B02087377-4819-415F-8006-710FBA765ABC%7D.png)
+![Working Calendar Integration](/assets/working-integration.png)
 
  
