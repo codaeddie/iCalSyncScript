@@ -21,7 +21,7 @@ Now, I want to see her work events on my Google Calendar and assign them to a sp
 
 oh no, this process is messy; I can’t simply add the events. I have to import, essentially *subscribe* to a public calendar via a URL
 
-![Adding Calendar to Google](/assets/add-calendar-google.png)
+![Adding Calendar to Google](./assets/add-calendar-google.png)
 
 > [!CAUTION]
 >
@@ -29,7 +29,7 @@ oh no, this process is messy; I can’t simply add the events. I have to import,
 
 okay so... this is unacceptable. Unless you want to do what your told and use iCal like the good lil’ blue bubble you are. Pay for iCloud storage, and Apple Care, and Apple Music, etc... Pay it. Pay for all of them. 
 
-![Calendar Integration](/assets/calendar-integration.png)
+![Calendar Integration](./assets/calendar-integration.png)
 
 ---
 
@@ -91,7 +91,7 @@ The result? Your work schedule, your calendar, your way. No more calendar segreg
 
 Follow the instructions for a quick-and-dirty quickstart.py script run
 
-![Project Files Structure](/assets/project-files.webp)
+![Project Files Structure](./assets/project-files.webp)
 
 Using the quickstart.py as a template; 
 
@@ -131,6 +131,6 @@ Using the quickstart.py as a template;
 
 ###### It worked!
 
-![Working Calendar Integration](/assets/working-integration.png)
+![Working Calendar Integration](./assets/working-integration.png)
 
  
